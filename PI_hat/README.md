@@ -33,14 +33,6 @@ This board was developed in collaboration with [Company Name] to optimize space,
 
 ### 🏗️ 3D Render
 ![3D View](Gripper_hatt/Screenshot 2025-06-06 080459.png)
+
 ![installed!](Gripper_hatt/Screenshot 2025-06-06 081048.png)
 
-> 📎 Full KiCad project and gerbers are available in the `/hardware` and `/outputs` folders.
-
-## 📂 Project Structure
-
-```bash
-├── hardware/           # KiCad files (schematic, layout, 3D)
-├── outputs/            # Gerbers, BOM, schematic PDF
-├── docs/               # Images and documentation
-└── firmware/ (optional if any code or config)
