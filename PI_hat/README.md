@@ -26,7 +26,7 @@ This board was developed in collaboration with [Company Name] to optimize space,
 ## 📐 PCB Overview
 
 ### 🖼️ Top View
-![routing](PI_hat/Gripper_hatt/Screenshot 2025-06-06 081435.png)
+![routing](Gripper_hatt/Screenshot 2025-06-06 081435.png)
 
 ### 🗺️ Schematic Diagram
 ![routing](PI_hat/Gripper_hatt/schematic.pdf)
