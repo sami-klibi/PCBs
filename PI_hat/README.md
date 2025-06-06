@@ -29,7 +29,7 @@ This board was developed in collaboration with [Company Name] to optimize space,
 ![Top View](Gripper_hatt/Screenshot%202025-06-06%20081435.png)
 
 ## 🗺️ Schematic Diagram
-📄 [View PDF](Gripper_hatt/schematic_diagram.pdf)
+📄 [View PDF](Gripper_hatt/schematic.pdf)
 
 ## 🧱 3D Render
 ![3D Render](Gripper_hatt/Screenshot%202025-06-06%20080459.png)
