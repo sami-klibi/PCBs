@@ -26,13 +26,14 @@ This board was developed in collaboration with [Company Name] to optimize space,
 ## 📐 PCB Overview
 
 ### 🖼️ Top View
-![PCB Render](docs/images/board_top.png)
+![routing](PI_hat/Gripper_hatt/Screenshot 2025-06-06 081435.png)
 
 ### 🗺️ Schematic Diagram
-Available in `hardware/your_project_name.kicad_sch`
+![routing](PI_hat/Gripper_hatt/schematic.pdf)
 
 ### 🏗️ 3D Render
-![3D View](Gripper_hatt/image.png)
+![3D View](Gripper_hatt/Screenshot 2025-06-06 080459.png)
+![installed!](Gripper_hatt/Screenshot 2025-06-06 081048.png)
 
 > 📎 Full KiCad project and gerbers are available in the `/hardware` and `/outputs` folders.
 
