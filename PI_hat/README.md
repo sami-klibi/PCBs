@@ -1,0 +1,45 @@
+# 🧠 Custom Raspberry Pi Hat for Stepper and Servo Control
+
+This project is a custom PCB designed to **replace the Arduino + CNC Shield v4 setup** with a **more compact and integrated solution**, tailored to the specific needs of our automated machine.
+
+## 🚀 Why This PCB?
+
+This board was developed in collaboration with [Company Name] to optimize space, improve performance, and simplify wiring when interfacing with the Raspberry Pi 4.
+
+### 🧩 Key Features
+
+- 🔄 **2x TMC2209 Stepper Drivers**  
+  Ultra-silent and precise stepper control with UART configuration.
+
+- ⚙️ **2x Servo Motor Connectors**  
+  Designed to control the gripper's movement directly.
+
+- 🧱 **3x Endstop Inputs**  
+  Ensures reliable homing and positional accuracy.
+
+- 🌬️ **Fan Connector (5V)**  
+  Keeps your electronics cool during operation.
+
+- 🔌 **GPIO-Optimized for Raspberry Pi 4**  
+  Carefully routed for clean integration and minimal cabling.
+
+## 📐 PCB Overview
+
+### 🖼️ Top View
+![PCB Render](docs/images/board_top.png)
+
+### 🗺️ Schematic Diagram
+Available in `hardware/your_project_name.kicad_sch`
+
+### 🏗️ 3D Render
+![3D View](docs/images/board_3d.png)
+
+> 📎 Full KiCad project and gerbers are available in the `/hardware` and `/outputs` folders.
+
+## 📂 Project Structure
+
+```bash
+├── hardware/           # KiCad files (schematic, layout, 3D)
+├── outputs/            # Gerbers, BOM, schematic PDF
+├── docs/               # Images and documentation
+└── firmware/ (optional if any code or config)
