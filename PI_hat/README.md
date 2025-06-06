@@ -32,7 +32,7 @@ This board was developed in collaboration with [Company Name] to optimize space,
 Available in `hardware/your_project_name.kicad_sch`
 
 ### 🏗️ 3D Render
-![3D View](docs/images/board_3d.png)
+![3D View](Gripper_hatt/image.png)
 
 > 📎 Full KiCad project and gerbers are available in the `/hardware` and `/outputs` folders.
 
