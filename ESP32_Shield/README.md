@@ -22,4 +22,7 @@ The shield also includes several connection ports:
 
 This shield provides a centralized, compact, and efficient management solution for the system’s hardware, reducing wiring complexity and improving physical integration within the enclosure.
  ### Routing
-![Routing](ESP32_Shield/images/routing)
+![Routing](ESP32_Shield/images/routing.png)
+
+### 3D View
+![3D View](ESP32_Shield/images/3d_view.png)
