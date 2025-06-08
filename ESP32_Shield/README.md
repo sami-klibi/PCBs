@@ -21,6 +21,10 @@ The shield also includes several connection ports:
     🌬️ A port for a cooling fan, ensuring efficient thermal management.
 
 This shield provides a centralized, compact, and efficient management solution for the system’s hardware, reducing wiring complexity and improving physical integration within the enclosure.
+
+### Schematic Diagram
+[📄 View PDF](ESP32_Shield/espschematic.pdf)
+
  ### Routing
 ![Routing](ESP32_Shield/images/routing.png)
 
