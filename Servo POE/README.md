@@ -18,7 +18,7 @@ A two-board system designed to simplify and organize the connection of up to 15 
 
 **🖼️ Images:**
 
-![RJ45 Adapter](board1.png)  
+![RJ45 Adapter](board_1/board1.png)  
 ![Servo Breakout](ServoBoards/servo_breakout.png)
 
 **📄 Schematic:**
